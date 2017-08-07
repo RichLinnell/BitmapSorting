@@ -7,8 +7,8 @@
     <ProjectGuid>{D20370A5-2028-4448-A89C-F96EE39FFE5E}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>bitmapSort</RootNamespace>
-    <AssemblyName>bitmapSort</AssemblyName>
+    <RootNamespace>BitmapSort</RootNamespace>
+    <AssemblyName>BitmapSort</AssemblyName>
     <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
